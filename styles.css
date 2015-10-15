@@ -1,0 +1,18 @@
+.container {
+	max-width: 928px;
+}
+
+.main {
+    font-family: 'Cabin Condensed', sans-serif;
+    background: url('#') no-repeat cover cover;
+}
+
+.main h1 {
+	font-size: 60px;
+    font-weight: 700;
+}
+
+.main p {
+    font-size: 30px;
+    font-weight: 500;
+}
